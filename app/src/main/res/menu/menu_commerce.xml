@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/citem1"
+        android:title="Top Colleges"></item>
+    <item android:id="@+id/citem2"
+        android:title="JOB and Opportunities"></item>
+</menu>

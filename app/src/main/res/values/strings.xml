@@ -1,0 +1,296 @@
+<resources>
+    <string name="app_name">Career Guidlines</string>
+    <string name="title_activity_streams">Streams</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_arts">Arts</string>
+    <string name="BA_SOCIAL">"One of the most popular career options after 12 th arts, a B.A degree is a three-year undergraduate
+degree course which focuses on subjects related to the liberal arts and social sciences.\n
+Preferred subject options for specialization include :\n
+English Literature, Economics, Political Science, History,Sociology and Philosophy.\n
+Post the completion of their BA degree; students have the option of studying further and doing their
+Masters in Arts (M.A).\n
+
+Career options :\n Banking, Marketing and Sales, General Administration and Retail."</string>
+
+    <string name="fine_arts">"An undergraduate course for art students interested in pursuing a career in fine arts like design,
+dance, painting, art or filmmaking. Curiously enough, it also attracts students with an active, creative
+streak from the Commerce and Science streams.\n
+        
+Students who opt for this course have the career options of specialising in a range of creative pursuits
+ which include :\nthe applied arts, drawing and painting, filmmaking, and ceramics among others.\n
+
+Career options : \nExhibition Designer, Artist, Illustrator, Secondary school teacher, Museum/Gallery
+Curator."</string>
+
+
+    <string name="BA_Design">"Looking to make a career in graphic/web design and animation? Then this undergraduate degree course after 12 th arts is just right for you. Students opting for this course have a slew of choices when it comes
+ to choosing their field of specialisation.\n
+        
+Some of the more popular career choices include; 2D/3D Animation, Animation Film Making,Graphic/Web Design, Sound and Video Editing and Visual Effects (VFX). Students from Science and
+commerce streams are also eligible to join this program.\n
+        
+Career Options : \nGraphic Designer, Interior designer, Textile designer, User Experience Designer"
+    </string>
+    <string name="BA_LLB">"The BA LLB program is a popular career option after 12 th arts opted by many students. It is a five-year
+ dual degree professional course in administrative law which targets students wanting to pursue a career
+ in the legal domain.\n
+
+Interested students need to first clear their Class 12 (in any stream) with a minimum 50% marks and
+ then pass a Common Entrance Test to join this course.\n
+
+This course covers Arts-related subjects like History, Economics and Sociology in addition to legal
+ topics like Tax Laws, Criminal and Corporate Laws etc. Students get to choose between – Constitutional law and Criminal Law – as their area of specialisation post joining this course.
+        Career Options : \nIndependent lawyer, Corporate lawyer, Human Resource Specialist, Labour and Employment lawyer, Legal consultant, a Public prosecutor.\n"
+    </string>
+
+    <string name="BHM_hospitality">This course for arts students is best suited for those who are looking to make a career in the booming
+ hospitality and/or travel and tourism industry. To be eligible to join this course students need to have
+ cleared their 10 +2 examinations in any stream or possess any other equivalent qualification from a recognised board.\n
+
+This arts course offers students multiple choices to specialise in critical aspects related to the functioning of both the industries. These include hospitality/hotel management, culinary arts, catering
+ and fares and ticketing.\n
+
+Career Options : \nTravel and Tour operators, Airlines, Airports, Online Travel websites, Visa and travel
+ document service firms, Hotels and Resorts, Tourist information offices and Luxury Cruise companies.</string>
+    <string name="BJMC">This three-year long undergraduate degree course is aimed for arts students with excellent
+ communication and writing skills who wish to join the growing media (print, online and electronic) and
+ the advertising industry.\n
+
+Open to 10+2 students from any stream; this three-year course offers students the opportunity to
+ specialise in areas like journalism, films and television, media planning and music and sound production
+ among others.\n
+
+Students should definitely opt for these courses after 12 th arts which are having a good scope in future.\n
+
+        Career Options : \nCorporate Communications, Journalism, Content development, Digital Marketing, Advertising copywriter, and Associate broadcast producer.</string>
+    <string name="BCA1">In this computer-driven world, a BCA degree can give you the power to explore computer languages.\n A
+ demanding computer course after 12 th arts stream, a BCA degree is generally recognised to be on par
+ with a B.Tech/B.E degree in IT or Computer science.\n
+
+\nAny student who has cleared his 10+2 with Mathematics, scoring a minimum 45% marks can apply for admission to this three-year course.\n
+
+\nNetworking Hardware and Security, Mobile App Development, Programming, Cloud Computing and Game Design are some of the choices available for specialization.\n
+\nCareer Options: \nSystems Administrator, Desktop Technician, Helpdesk Assistant. Freelance web
+ designer, Computer teacher/instructor.\n</string>
+    <string-array name="arts">
+        <item>B.A (Hons)</item>
+        <item>B.A in Fine/Visual Arts</item>
+        <item>B.Design in Animation</item>
+        <item>BA LLB</item>
+        <item>BHM in Hospitality and Travel</item>
+        <item>B.A Journalism and Mass Communication</item>
+        <item>BCA</item>
+    </string-array>
+
+    <string-array name="commerce">
+        <item>Bachelors of Commerce (B.Com)</item>
+        <item>Bachelors of Commerce B.com (Hons)</item>
+        <item>Bachelors in Economics</item>
+        <item>Bachelors of Business Administration (BBA)</item>
+        <item>Bachelor of Management Studies (BMS)</item>
+        <item>Chartered Accountancy (CA)</item>
+        <item>Company Secretary (CS)</item>
+        <item>Cost and Management Accountant (CMA)</item>
+        <item>Certified Financial Planner (CFP)</item>
+        <item>Bachelor of Law (LLB)</item>
+    </string-array>
+
+    <string name="B.comp">"This is the general degree that spans over a period of 3 years that you can pursue after completing
+your 12th commerce.\nHaving a normal B.com degree proves quite handy even if you are pursuing any
+of the professional courses. It is always beneficial to complete your graduation that may help you later
+on if you go for higher studies.\n\n
+You can pursue B.Com as a full time course or through correspondence depending upon your choice.\n
+Distance education courses or correspondence courses are beneficial if you are also pursuing a
+professional course like CA, CS etc.\n\nOtherwise a regular degree is a better choice."</string>
+
+    <string name="B.comh">"This is similar to B.com but in an extensive form with specialisation in a particular subject or field
+like Accountancy, management or economics etc.\n\nThe industry demand for B.com (Honours) is
+somewhat better than normal B.com.\n\nHowever,the admission criteria and eligibility conditions might be
+similar for both. These may slightly vary for different universities/colleges.\n\n
+The subjects are also quite similar, the major difference being that you will get to do in depth analysis
+while studying B.Com(H)"</string>
+
+    <string name="Eco">"This is yet another option for commerce students to pursue after their higher secondary education. You
+will get to experience practical knowledge on various economic concepts, economic policies,
+analytical methods and programs etc. If you are keenly interested in economics and want to gain
+specialisation about the economic framework, this might suit you.\n\n
+If you want to prepare for Indian Administrative Services or IAS, having an economic background shall
+be an added advantage for you."</string>
+
+    <string name="BBA">"This is a 3 year Business administration course helping to build a base in core business disciplines. You
+get to explore different functional areas of a business environment.\n\nSo, if you are interested in getting
+an exposure to the various business aspects and get a hold of the concepts of business administration,
+this course might be your choice.\n\n
+In addition to academic learning, if you pursue BBA from a good university, you get well versed with
+business insights and real world business skills."</string>
+
+    <string name="BMS">"Another undergraduate programme designed to prepare students in the field of management. This is a 3
+year course that provides theoretical and practical training which helps to inculcate leadership and
+managerial skills.\nA good understanding of managerial practices and concepts can guide you to explore
+ample of opportunities in the business world.\n\n
+You get to learn and add varied knowledge in the field of management, human resources,
+organisational theories, research methodology etc.\nThe demand for skilled managerial professionals has
+seen an increasing trend. So, having the requisite degree from a reputed institution can help you to
+become successful in the corporate world.\n\n
+Some colleges might have renamed their BBA Course as BMS Course. So, don’t get confused and just
+clarify all the details beforehand from the respective college."</string>
+
+    <string name="CA">"This is the best professional course for building a successful career in commerce.\nBecoming a
+Chartered Accountant opens the various doors to exciting career opportunities in diversified
+sectors.\nYou can act as a Tax Consultant,an auditor,an advisor,a financial officer and so on depending
+upon whether you go in your own independent practice or you settle for a corporate job.\n\n
+It requires lot of hard work and sincere efforts to enter this esteemed profession.\n
+It might be easy for CA entrants to clear the initial level.\nBut,the higher levels you reach i.e.
+Intermediate (IPCC) and CA Finals, the tougher it gets.\nSo,complete determination followed byconsistent efforts are the keys to success.The new curriculum has been launched for CA Course
+wherein you need to do Foundation, Intermediate and Final levels."</string>
+
+    <string name="CS">"This is another professional course that is opted by students after 12th commerce. This course is
+provided by The Institute of Company Secretaries of India.\n\n A Company Secretary is basically
+responsible for all the regulatory compliances of the company and acts as an in-house legal expert.\n\n
+After doing CS you have an option to practice independently or look in for a job in the corporate world.
+This is also a preferred choice for students pursuing Chartered Accountancy.\n\nA combination of CA
+and CS is common choice among students to build a good career."</string>
+
+    <string name="CMA">"This course is provided by The Institute of Cost Accountants of India or ICWAI.\nCertified Cost
+Accountants maintain cost accounting records, do cost auditing, helps in planning, controlling and
+costing of products.\n\n
+You can do your own practice as CMA or hold managerial positions in public as well as private
+enterprises.\n\nThe role of Cost Accountant goes beyond that of Financial Accountant by helping in
+production operations and processes.\nYou can chose the cost audit area, certification and consulting
+areas."</string>
+
+    <string name="CFP">"If you are interested in building a career in areas of Personal finance, wealth management, insurance
+planning, mutual fund investing then this might be a great fit for you.\n\nSo,if you want to enter the
+financial planning world, then you need to get this certification as a Certified Financial Planner or CFP."</string>
+
+    <string name="LLB">"LLB is also a common degree that students pursue after their 12th standard. You might already know
+who a “lawyer” or “advocate” is and what are his duties.\n\n\n
+The Bar Council of India (BCI) is the main regulatory body of Law Education in India.\n\n BCI provides
+certificate of practice after completion of LLB.\n\nIn order to practice you need to clear the All India Bar
+Examination.\n\n
+If you wish to do the *integrated course, you can take the admission in 5 year integrated programme
+after the completion of your 12th standard exams.\n\n\n*Integrated undergraduate degrees provided are B.A.
+LL.B., B.Sc. LL.B., BBA LLB, B.Com LL.B
+The law students have a great scope of establishing name,fame and a good career in the long run."</string>
+    <string name="BAT">"Business Accounting and Taxation (BAT)
+
+Biggest problem for B.com Fresher’s, all the jobs that we like – need some work experience in Finance and Accounts, without work experience jobs are mostly in BPOs, Back office or Sales. So what can one do?
+
+We at EduPristine have researched and have successfully designed a course will give you the practical understanding of accounting, taxation, reporting, and compliance all the skills that you need in accounting firms (Big 4s), KPO or other hardcore finance and account profiles.
+
+Right from understanding the basic journal entry, final accounts, tax compliances, we will also help you to enhance your soft skills (business communication), understanding advanced Excel and technology used in industry, the most essential, SAP training.
+
+In a nutshell,
+
+BAT Course = Practical exposure to accounting, taxation and compliances + improved business communication + SAP Training + Tally Training + Quick Book Training +Overall Self Development + Right Career Developmen\n\n\n"</string>
+    <string name="AACA">"
+ACCA (Association of Chartered Certified Accountants) is the world’s leading and fastest-growing international accountancy organization with 162,000 members and 428,000 students in 173 countries.\n\nThe ACCA qualification helps develop successful careers in the fields of accounting, banking, management and consulting, and is a major advantage in competing for senior roles.\nACCA is considered to be very similar to CA but ACCA program provides you with additional knowledge about UK GAAP, IFRS and laws which makes ACCA superior to CA. To successfully complete your ACCA program you will need to clear 14 paper (lesser in case of Exemptions)."</string>
+    <string name="top_arts_co">"\n\nTop Arts and Humanities Colleges in India - 2018\n\n
+This list has Arts and Humanities Colleges from Delhi, Mumbai, Chennai, Ahmedabad, Pune, Kochi
+and other cities of India which are among the best in the nation, as ranked by the 2017 annual survey
+conducted jointly by India Today and Nielsen company.\n\n Here's the list of the top 40 arts and humanities
+colleges of India."</string>
+    <string name="rankingarts">"1. Lady Shri Ram College (LSR) for Women, New Delhi\n2.Loyola College, Chennai\n3. Christ University, Bangalore\n4. St. Xavier's College, Mumbai\n5. Miranda House, New Delhi
+6. Hansraj College, Delhi
+7. Shri Ram College of Commerce, Delhi
+8. Hindu College, New Delhi
+9. Ramjas College, Delhi
+10. Madras Christian College, Chennai
+11. Delhi College of Arts and Commerce, Delhi
+12. Sri Venkateswara College, Delhi
+13. Stella Maris College, Chennai
+14. Kristu Jayanti College, Bangalore
+15. Mount Carmel College, Bangalore
+16. Kamala Nehru College for Women, Delhi
+17. Indraprastha College for Women, Delhi
+18. GGDSD College, Chandigarh
+19. Gargi College, New Delhi
+20. K.J Somaiya College of Arts and Commerce, Mumbai
+21. Government College for Girls, Chandigarh
+22. Maharaja Agrasen College, Delhi
+23. Ethiraj College for Women, Chennai
+24. DAV College, Chandigarh
+25. St. Xavier's College, Ahmedabad
+26. Mehr Chand Mahajan D. A. V. College for Women(MCM DAV College for Women),
+Chandigarh
+27. Kirori Mal College, Delhi
+28. St. Francis College for Women, Hyderabad
+29. Mithibai College of Arts, Mumbai
+30. The Oxford College of Arts, Bangalore
+31. Women's Christian College, Chennai
+32. St. Teresa's College, Kochi
+33. Sacred Heart College, Kochi
+34. St. Ann's College for Women, Hyderabad
+35. Ramakrisha Mission Vidyamandir, Belur, Kolkatta
+36. S.K. Somaiya college of Arts and Commerce, Mumbai
+37. Sophia College for Women, Mumbai
+38. Isabella Thoburn College, Lucknow
+39. St. Mira's College for Girls, Pune
+40. Maharani Laxmi Ammanni College for Women, Bangalore"</string>
+
+
+    <string-array name="NON_MEDICAL">
+        <item>B.Tech In Information Technology</item>
+        <item>B.Tech In Computer Science and Engineering</item>
+        <item>B.Tech- Mechanical Engineering</item>
+        <item>B.Tech- Civil Engineering</item>
+        <item>B.Tech- Electrical Engineering</item>
+        <item>B.Sc IT</item>
+        <item>BCA- Bachelor of Computer Application</item>
+        <item>B.Sc Forensic Sciences</item>
+        <item>B.Pharm</item>
+        <item>B.Sc Nautical Science</item>
+        <item>5 years B.Sc M.Sc in Pure Sciences</item>
+        <item>B.Sc Economics</item>
+        <item>Bachelor in Construction Technology</item>
+    </string-array>
+    <string name="B.tech_IT">"A software developer is a person who overlooks all the software development processes which includes researching, designing, developing and testing the software.\n\nThey often work in teams with programmers, engineers, analysts to develop and install a software solution.\n\nThey even write codes for those programs which they design, test and document.\n\nThis happens at a much later stage when a developer can write professional quality codes hence mentoring under some good team is usually the way to begin.</string>
+    <string name="B.tech_CS">"Computer Engineering encompasses studying subjects from both electrical engineering as well as computer science.\n\nThe knowledge from these two branches is applied in making and development of computers and allied systems.\n\nThere are two types of computer engineers – hardware engineers and software engineers.\n\nHardware engineers build computers like workstations, laptops, PCs or tablets.\nThey also develop systems, which are computer based like those in electronic equipment, communication networks and even complex navigational systems found in aircrafts and space satellites."</string>
+    <string name="B.tech_MC">"The career of a Mechanical Engineer involves design, analysis or testing, manufacture and maintenance of anything that has movable component.\n\nGiven the broad applications it has, this ‘mother’ branch is described as an “all-weather” and “all-purpose” field that allows practitioners to enter a variety of sectors, from the automobile and electrical industries to bio-medical equipment manufacturers and energy companies."</string>
+    <string name="B.tech_CE">"Civil engineering is about the design and planning, construction, supervision, quality control and maintenance of physical structures, such as buildings, roads, bridges, dams, canals, sea ports, power plants and airports.\n\nSpecializations include structure, transportation, geo-technical and geo-environmental, and water resources engineering. \n\n\nEmployers include municipal bodies, the defence forces, National Highway Authority of India, government development arms like the DDA and Noida Authority, BHEL, Larsen and Toubro, etc."</string>
+    <string name="B.tech_EE">"Electrical engineers create and implement electrical systems for everything from houses to rockets.\n\nDevices that transmit signals such as GPS and radar are products of electrical engineering.\n\nAs an electrical engineer, you'll focus on power generation and transmission processes.\n\nOne also experiments with new ways to use electronics, like using bio-medical devices that allow physicians to accurately assess a patient's condition without an invasive procedure.\n\nElectrical engineering, the discipline that employs the largest number of engineers, covers everything related to electrical devices, systems, and the use of electricity.\n\nElectrical engineers work on power plants, computers, and other electrical devices.\n\nElectrical engineers are designing the dashboard computers that will monitor engine functions on automobiles of the future."</string>
+    <string name="B.Sc_IT1">"A Bachelor of Science in Information Technology, (abbreviated BSIT or B.Sc IT), is a Bachelor's degree awarded for an undergraduate course or program in the Information technology field.\n\nThe degree is normally required in order to work in the Information technology industry."</string>
+    <string name="B.Sc_Forensic_Sciences1">"Forensic scientists help investigate crimes through collection and analysis of evidence. The evidence may be at the crime scene or elsewhere and may comprise of clothes, hair, handwriting, weapons and other materials. They inspect the crime scene thoroughly and collect the evidence. Most of them are trained for more than one type of evidence. And try to inter relate the evidence and recreate the crime scene. Usually they work in Forensic labs but can also work in field or in medical research labs depending on specialization. They work closely with the police and detectives to help solve criminal cases. Forensic science is a vast field and thus they specialize in areas like Finger printing or DNA analysis."</string>
+    <string name="B.Pharm1">"A Bachelor of Pharmacy (abbreviated B Pharm or BS Pharm) is an undergraduate academic degree in the field of pharmacy."</string>
+    <string name="BCA2">"Bachelor of Computer Applications (BCA) is a four-year undergraduate degree in Nepal and three-year undergraduate degree course in India.\n\n This is the field of computer applications/computer science\n\n After BCA the students can do further studies as MCA master in computer application.\n\nIt is a common degree for CS/IT in Indian universities and is an alternative to the engineering counterpart, BE/BTech in Computer Science and Engineering/IT which takes 4 years.\n\n It is a technical degree that prepares students for a career in the field of computer applications and software development.\n\nThe degree is the not prerequisite for registration to practice as a pharmacist in many countries.\n\nIt's training to understand the properties and impacts of medicines and developing the skills required to counsel patients about their use.\n\nB Pharm holders can work in several fields such as being a pharmacist, patient counseling, doing further studies such as master's degree, working in a university as a lecturer, or working as a drug information specialist."</string>
+    <string name="B.Sc_Nautical_Science1">"The Merchant Navy is a non-combatant commercial fleet, which deals with transporting cargo and passengers by sea. \n\nIts fleet is therefore composed of passenger vessels, cargo, liner tankers, carriers, as well as other special types of vehicles.\n\nMerchant navy is a career full of adventure and long voyages to different beautiful places.\n\nIn spite of a lot of hard work and long absence from home, the Merchant navy professionals earn a high tax free salary, with other numerous benefits and promising promotional opportunities\n\n This makes merchant navy a lucrative and exciting career."</string>
+    <string name="B.Sc_M.Sc_in_Pure_Sciences1">"A Bachelor of Science (Latin Baccalaureus Scientiae, B.S., BS, B.Sc., BSc, or B.Sc;\nOr, less commonly, S.B., SB, or Sc.B., from the equivalent Latin Scientiae Baccalaureus)\n\n[1] is an undergraduate academic degree awarded for completed courses that generally last three to five years, or a person holding such a degree.[2]\n\n
+Whether a student of a particular subject is awarded a Bachelor of Science degree or a Bachelor of Arts degree can vary between universities. \n\nFor example, an economics degree may be given as a Bachelor of Arts (BA) by one university but as a BS by another, and some universities offer the choice of either.\n\n[3] Some liberal arts colleges in the United States offer only the BA, even in the natural sciences,\n\n[4] while some universities offer only the BS even in non-science fields."</string>
+    <string name="B.Sc_Economics1">"Economics is one of the social sciences that is the study of scare resources and how they are used to meet the demands. \n\nIf GDP, trade, welfare, financial planning, budgeting, economic policy, etc sound interesting to you, ECONOMICS is the field to be in.
+Economists study and do research of production processes, distribution processes, consumption patterns with the objective of optimum utilization of resources"</string>
+    <string name="Bachelor_in_Construction_Technology">"Construction Technology is integral to the development of cities and built environments. Construction Engineers work on many aspects of the construction and implementation of various development projects.\n\n
+The five–year undergraduate (UG) program in Construction Technology is one of the unique engineering programs in India.\n\nThe course leads to a degree of Bachelor of Construction Technology.\n\nIt equips students with competencies necessary for being effective professional engineers and exposes them to technical, managerial and social dimensions of the built environment.\n\nThe Bachelor of Construction Technology degree apart from being a choice for a professional career, also opens up many avenues to pursue postgraduate and doctoral studies.  For further studies,  a construction engineer might further hone his/her skill by focusing on construction engineering, structural design, infrastructure design or shift to allied professions such as urban planning, management etc. "</string>
+    <string-array name="MEDICAL">
+        <item>MBBS</item>
+        <item>BHMS</item>
+        <item>BAMS</item>
+        <item>BUMS</item>
+        <item>BDS</item>
+        <item>B.Sc-Nursing</item>
+        <item>B.Sc Microbiology</item>
+        <item>B.Sc Biotechnology</item>
+        <item>B.Sc Agriculture</item>
+        <item>B.Sc Botany</item>
+        <item>B.Sc Zoology</item>
+        <item>B.Sc Anthropology</item>
+
+    </string-array>
+    <string name="MBBS1">"The MBBS course starts with the basic pre and para-clinical subjects such as biochemistry, physiology, anatomy, microbiology, pathology and pharmacology.\n\nThe students simultaneously obtain hands-on training in the wards and out-patient departments, where they interact with real patients for five years. The curriculum aims to inculcate standard protocols of history taking, examination, differential diagnosis and complete patient Management. The student is taught to determine what investigations will be useful for a patient and what are the best treatment options.\n\nThe curriculum also contains a thorough practical knowledge and practice of performing standard clinical procedures.\n\nThe course also contains a 12-month-long internship, in which an intern is rotated across various specialties.\n\nBesides standard clinical care, one also gets a thorough experience of ward management, staff management, and thorough counselling skills.\n\n\n
+
+The degree awarded is "Bachelor of Medicine and Bachelor of Surgery".\n\nThe minimum requirements for the MBBS course are 50% marks in physics, chemistry, biology and English in the '10+2' examinations.\nFor reserved category students, the requirement is 40%. MBBS admissions are not centralised.\nThe admission requirements differ across universities.\nGenerally, students who attain higher marks in the qualifying examinations and in the Medical Entrance examinations conducted by various agencies are accepted onto the MBBS course.\nThe government is planning to come up with new medical colleges in 58 districts of India.\nThe new colleges will add 5,800 more MBBS seats in the country.\n\nEntrance examinations are conducted by the following agencies:\n\nJIPMER – Jawaharlal Institute of Post-graduate Medical Education and Research\n\nNEET- National Eligibility cum Entrance Test (For any private as well as public university in India)\n\nAIIMS All India Institute of Medical Sciences"</string>
+    <string name="BHMS1">"Bachelor of Homeopathic Medicine and Surgery (B.H.M.S.) is a graduate degree in Homeopathy in India, awarded after the study of five and a half years duration, including one-year internship.\n\n[1] BHMS covers medical knowledge of the homeopathic system.\n\n
+    Bachelor of Homeopathic Medicine and Surgery course allows students to choose any specialization\n\nFor example, Homeopathic Pharmacy, Pediatrics, Psychiatry, Skin Specialist and Infertility to treat the patients with their homeopathic study knowledge exposure. "</string>
+    <string name="BAMS1">"Bachelor of Ayurvedic Medicine and Surgery (B.A.M.S.) is a professional degree in medicine focused on Ayurveda offered in India,[1] Nepal,[2] Bangladesh [3] and other South Asian countries.\n\n
+It is awarded after the study of five and a half years duration, including 1-year internship.\n\nA BAMS graduate is allowed to provide medical treatment in some states of India and Sri Lanka after registering oneself at the government-approved licensing body.\n\n[4][5]Ayurveda is not considered to be pseudoscientific by the mainstream scientific community and is a type of complementary or alternative"</string>
+    <string name="BUMS1">"The Bachelor in Unani Medicine and Surgery (BUMS) is also known as Kamil-e-Tib-o-Jarahat.\n\nThis program is yet another option for those electing to get an undergraduate degree in alternative medicine.\n\nBUMS, like all alternative medical undergraduate programs that fall into the AYUSH category - Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy - is monitored by the Central Council of Indian Medicine.\n\n\nUnani focuses on four different treatment therapies in its field: massage, diuresis, Turkish bath, pharmaco-therapy, diet therapy, purging, regimental therapy venasection, exercise; use of herbal, animal and mineral drugs, and surgery."</string>
+    <string name="BDS1">"BDS is one of the most popular and designated degree of dentists (doctors).\n\nThe BDS (Bachelor of Dental Surgery) is the only educational and professional programme of dental surgery in India.\n\nIt is equivalent to the MBBS and owes the “Dr” domain. In the medical educational field, it is the second choice of the students after the MBBS course.\n\nIn this course, the students are taught about the denture, dental problems and surgery.\n\nIt is also a good job oriented degree programmes and various opportunities  are available in the hospital, pharmaceutical and medical device manufacturing industries."</string>
+    <string name="B.Sc_Nursing1">"B.Sc Nursing is a  bachelor degree program offered at the university level.\n\nThe undergraduate nursing program is broad-based education within an academic framework specially directed to the development of critical thinking skills, competence and standards required for the practice of professional nursing and midwifery as envisaged in national health policy 2002.\n\nB.Sc. Nursing program prepares its graduates to become an exemplary citizen by adhering to a code of ethics and professional conduct at all times in fulfilling personal, social and professional obligations so as to respond to national aspirations.\n\nThese graduate nurses are prepared to work as a care provider, educator, coordinator, advocator, researcher, counselor and administrator etc."</string>
+    <string name="B.Sc_Microbiology1">"Our BSc Microbiology course involves the study of microorganisms with particular emphasis on the biology of bacteria, viruses, fungi and protozoan parasites.\n\nMicrobiologists are needed to do the research required for the future battle against infectious diseases worldwide, understanding the environmental importance of microbes and to exploit them for food production, biotechnological and industrial applications.\n\nThe main focus of our course is the pathogenic potential of the organisms that cause disease in man.\nYou will also cover aspects of the biochemistry, physiology and genetics of microorganisms. "</string>
+    <string name="B.Sc_Biotechnology1">"Our BSc Biotechnology course will enable you to learn about the science behind biotechnology while also looking at how to succeed in a career in the industry.\n\nYou will learn about how new start-up biotechnology companies are created, as well as about exploring the market potential of products and processes, creating business plans and raising money from venture capitalists.\n\nOur group enterprise projects, which involve close collaboration with entrepreneurs, provide a great opportunity for you to stand out from other graduates."</string>
+    <string name="B.Sc_Agriculture1">"B.Sc. Agriculture is a 4-year undergraduate degree awarded by Indian Universities for 10+2 students preferably with Science stream.\n\nLike, BE/B.Tech or MBBS, B.Sc. in Agriculture is considered as a professional degree by Government of India.\n\nThe course is not so popular among students but the demand for trained professionals in agriculture is very high.\n\nAdmission to the course is mostly entrance exam based.\n\nKEAM, EAMCET are a few entrance exams conducted for admission to the course.\n\nThere are  42 State Agricultural Universities (SAUs), 1 Central Agricultural University (CAU), 5 Deemed Universities (DUs) and 4 general Central Universities with Agriculture faculty in India."</string>
+    <string name="B.Sc_Botany1">"The structure of the course brings the two aspects of learning under one roof;\n\nthese two aspects are the theoretical learning and the practical learning experience.\n\nThe course is designed such that majorly all the theoretical course are accompanied with practical classes to provide a hands-on experience to the students in order to acquaint them with the necessary skills and professional understanding of the scientific concepts and help them use this experience in the real-life situations during their careers."</string>
+    <string name="B.Sc_Zoology1">"Bachelors of Science in Zoology is a professional undergraduate degree course in Animal Biology.\n\nIt is a three-year-course comprising six semesters in most universities.\n\nA few universities like IGNOU and Annamalai University (in distance mode) follow annual system wherein exams are held once a year.\n\nCandidates should have passed Class XII with Physics, Chemistry, and Biology and with a minimum aggregate of 50% marks.\n\nOne can either enroll in a regular college or opt for Correspondence/Distance Learning.\n\nThe admission is based on the cut off list issued by the university or college.\n\nThe admission process is entirely merit-based.\nThe course fee varies from INR 3,000 to INR 7,000 per semester (six months) for different colleges."</string>
+    <string name="B.Sc_Anthropology1">"B.Sc. in Anthropology is a 3- year long Bachelor’s program essentially involving a comparative study of human similarities and differences.\n\nIt broadly covers the biological and cultural history of the human species over the last four million years, the cultural patterns of people from around the world, and the techniques and ideas people have used both to exploit and protect natural resources and the environment\n\nSubjects studied in this course are Socio-cultural Anthropology, Biological Anthropology and Archaeological Anthropology.\n\nMinimum eligibility for this course is an Intermediate qualification (10+2) with Physics, Chemistry, Biology and/ or Mathematics as main subjects\n\nThe average tuition fee charged in India for this course ranges between INR 50,000 and 3 Lacs."</string>
+    <string name="help1">"This app is based upon career counselling.\nThis is very useful for students to decide and help them for their subjects or stream they want to choose after their schooling.\nMostly students face the difficulty to select courses for their higher studies so to keep in mind this problem this app is developed to help the students.\nHope this is useful for you.\nHope you like it.\nThanks Regards :\nAMAR KUMAR developer of this app.\nI try to give you more apps in future for your help."</string>
+</resources>
